@@ -162,6 +162,7 @@ flex-direction: row;
 
 }
 
+
 .resort2{
 
 display: flex;
@@ -249,6 +250,14 @@ width: 100%;
     flex-direction: column;
     
     }
+    .resort1 img{
+        width: 100%;
+        
+        }
+    .resort2 img{
+        width: 100%;
+        
+        }
 
 
     
