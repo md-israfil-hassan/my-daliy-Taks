@@ -182,16 +182,19 @@ margin: 40px 0px 40px;
 .resort-discription{
     line-height: 1.5;
     margin: 0px 0px 40px ;
-    font-size: 18px;
+    font-size: 16px;
 
 }
 h4{
 margin-left: 15px;
-font-size: 30px;
+font-size: 28px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
+.resort1 img{
+margin-bottom: -8px;
+    
+}
 
 
 
